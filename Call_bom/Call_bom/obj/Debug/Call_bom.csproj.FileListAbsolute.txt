@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\Call_Bom\Call_bom\Call_bom\obj\Debug\Call_bom.MainForm.resources
+C:\Users\admin\Desktop\Call_Bom\Call_bom\Call_bom\obj\Debug\Call_bom.Properties.Resources.resources
+C:\Users\admin\Desktop\Call_Bom\Call_bom\Call_bom\obj\Debug\Call_bom.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Call_Bom\Call_bom\Call_bom\bin\Debug\Call_bom.exe.config
+C:\Users\admin\Desktop\Call_Bom\Call_bom\Call_bom\bin\Debug\Call_bom.exe
+C:\Users\admin\Desktop\Call_Bom\Call_bom\Call_bom\bin\Debug\Call_bom.pdb
+C:\Users\admin\Desktop\Call_Bom\Call_bom\Call_bom\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Call_Bom\Call_bom\Call_bom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Call_Bom\Call_bom\Call_bom\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Call_Bom\Call_bom\Call_bom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Call_Bom\Call_bom\Call_bom\obj\Debug\Call_bom.exe
+C:\Users\admin\Desktop\Call_Bom\Call_bom\Call_bom\obj\Debug\Call_bom.pdb
+C:\Users\admin\Desktop\Call_Bom\Call_bom\Call_bom\obj\Debug\Call_bom.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Call_Bom\Call_bom\Call_bom\obj\Debug\Call_bom.ExportDate.resources
+C:\Users\admin\Desktop\Call_Bom\Call_bom\Call_bom\bin\Debug\NPOI.dll
+C:\Users\admin\Desktop\Call_Bom\Call_bom\Call_bom\bin\Debug\ICSharpCode.SharpZipLib.dll
